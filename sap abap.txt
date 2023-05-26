@@ -1,0 +1,8 @@
+21/02/2023 
+
+concepts to learn :-
+
+field symbols -> replacement for work areas and internal tables
+watch points
+
+ZJK_LDB_REPORT

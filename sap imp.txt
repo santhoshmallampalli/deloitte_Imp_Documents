@@ -1,0 +1,10 @@
+21/02/2023 
+
+concepts to learn :-
+
+field symbols -> replacement for work areas and internal tables
+watch points
+
+ZJK_LDB_REPORT
+
+He gave me the task na to create a program to display the contents of any table given by user
